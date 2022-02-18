@@ -1,0 +1,2 @@
+http://wiki.codeblocks.org/index.php?title=Cross_Compiling_wxWidgets_Applications_on_Linux#Running_on_Linux
+https://wiki.wxwidgets.org/Compiling_wxWidgets_with_MinGW
