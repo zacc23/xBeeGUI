@@ -1,2 +1,8 @@
-http://wiki.codeblocks.org/index.php?title=Cross_Compiling_wxWidgets_Applications_on_Linux#Running_on_Linux
-https://wiki.wxwidgets.org/Compiling_wxWidgets_with_MinGW
+REQUIREMENTS (included)
+wxWidgets (including wx-config.exe)
+asio (headers)
+
+COMPILING
+# for WINE keep x86_64-w64-mingw32-g++, otherwise replace with another C++ compiler
+# (from http://wiki.codeblocks.org/index.php?title=Cross_Compiling_wxWidgets_Applications_on_Linux#Running_on_Linux)
+./build.sh
